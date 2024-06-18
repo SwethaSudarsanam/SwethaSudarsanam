@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SwethaSudarsanam
+- 👀 I’m Frontend Developer (Angular) 
+- 🌱 I’m currently learning Node.js
+- 📫 How to reach me swethasudarsanam@gmail.com
+- 😄 Pronouns: swetha
